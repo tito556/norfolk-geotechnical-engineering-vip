@@ -1,0 +1,52 @@
+# Geotechnical Engineering — Norfolk
+
+> Geotechnical engineering services in Norfolk, United States.
+
+## Services
+- [Anchors](https://norfolk.geotechnical-engineering.vip/anchors/)
+- [Atterberg Limits](https://norfolk.geotechnical-engineering.vip/atterberg-limits/)
+- [Cbr Road](https://norfolk.geotechnical-engineering.vip/cbr-road/)
+- [Cpt Test](https://norfolk.geotechnical-engineering.vip/cpt-test/)
+- [Deep Excavations](https://norfolk.geotechnical-engineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://norfolk.geotechnical-engineering.vip/excavation-monitoring/)
+- [Excavations](https://norfolk.geotechnical-engineering.vip/excavations/)
+- [Flexible Pavement](https://norfolk.geotechnical-engineering.vip/flexible-pavement/)
+- [Footings](https://norfolk.geotechnical-engineering.vip/footings/)
+- [Foundations](https://norfolk.geotechnical-engineering.vip/foundations/)
+- [Geophysics](https://norfolk.geotechnical-engineering.vip/geophysics/)
+- [Grain Size](https://norfolk.geotechnical-engineering.vip/grain-size/)
+- [Ground Improvement](https://norfolk.geotechnical-engineering.vip/ground-improvement/)
+- [Grouting](https://norfolk.geotechnical-engineering.vip/grouting/)
+- [In Situ Permeability](https://norfolk.geotechnical-engineering.vip/in-situ-permeability/)
+- [Investigation](https://norfolk.geotechnical-engineering.vip/investigation/)
+- [Lab In Situ](https://norfolk.geotechnical-engineering.vip/lab-in-situ/)
+- [Laboratory](https://norfolk.geotechnical-engineering.vip/laboratory/)
+- [Liquefaction](https://norfolk.geotechnical-engineering.vip/liquefaction/)
+- [Masw](https://norfolk.geotechnical-engineering.vip/masw/)
+- [Mat Foundations](https://norfolk.geotechnical-engineering.vip/mat-foundations/)
+- [Piles](https://norfolk.geotechnical-engineering.vip/piles/)
+- [Plate Load Test](https://norfolk.geotechnical-engineering.vip/plate-load-test/)
+- [Resistivity](https://norfolk.geotechnical-engineering.vip/resistivity/)
+- [Retaining Walls](https://norfolk.geotechnical-engineering.vip/retaining-walls/)
+- [Rigid Pavement](https://norfolk.geotechnical-engineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://norfolk.geotechnical-engineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://norfolk.geotechnical-engineering.vip/sand-cone-density/)
+- [Seismic](https://norfolk.geotechnical-engineering.vip/seismic/)
+- [Seismic Isolation](https://norfolk.geotechnical-engineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://norfolk.geotechnical-engineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://norfolk.geotechnical-engineering.vip/seismic-refraction/)
+- [Slope Stability](https://norfolk.geotechnical-engineering.vip/slope-stability/)
+- [Slopes](https://norfolk.geotechnical-engineering.vip/slopes/)
+- [Soft Ground Tunnels](https://norfolk.geotechnical-engineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://norfolk.geotechnical-engineering.vip/spt-drilling/)
+- [Stone Columns](https://norfolk.geotechnical-engineering.vip/stone-columns/)
+- [Test Pits](https://norfolk.geotechnical-engineering.vip/test-pits/)
+- [Triaxial](https://norfolk.geotechnical-engineering.vip/triaxial/)
+- [Vibrocompaction](https://norfolk.geotechnical-engineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://norfolk.geotechnical-engineering.vip/
+
+## About
+This site provides geotechnical engineering services in Norfolk, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
